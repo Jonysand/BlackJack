@@ -1,5 +1,5 @@
 # Black Jack
-This project is a simple web based Black Jack game, built with [Deck of Cards](http://deckofcardsapi.com).
+This project is a simple web based Black Jack game, built with [Deck of Cards](http://deckofcardsapi.com). Click [here](https://jonysand-blackjack.glitch.me) to play!
 
 ## About
 This is a simple black jack game. Simple press "Start" to start or reset the game. Try to win the Dealer!
